@@ -43,7 +43,7 @@ Example: *studies → study*, *better → good*
 Click the link below to open the notebook directly in Colab:
 
 👉 **Colab Link:**  
-*(Insert your Colab link here)*
+*=HYPERLINK("https://colab.research.google.com/github/2301730207Sudhanshu/NLP-Assignment-1---Text-Pipeline-Tokenization-Stopwords-Stemming-Lemmatization-/blob/main/NLP%20Assignment%201.ipynb","Colab Notebook Project 1")*
 
 ### Option 2 — Run Locally  
 1. Install dependencies:  
