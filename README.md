@@ -33,7 +33,7 @@ Example: *studies → study*, *better → good*
 ---
 
 ## 📂 File Included
-- **NLP_Project1.ipynb** – Complete code with step-by-step explanation
+- **NLP_Assignment1.ipynb** – Complete code with step-by-step explanation
 
 ---
 
